@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    
+  }
+  
+  .header{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.1) 100%) , url(5f9c9cfc740569d1a4ca3543.jpg);
+    background-size: cover;
+    background-position: center;
+     position: relative;
+
+     
+}
+.header h1{
+    text-align: center;
+    color: yellow;
+}
+
+#title
+{
+   padding-top: 20px;
+}
+ 
+
+
